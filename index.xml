@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>王安坤的Blog</title>
         <link>https://sunwukun.github.io/</link>
-        <description>我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Oct 2021 19:40:44 &#43;0800</lastBuildDate>
+        <description>王安坤的Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>809075124@qq.com (王安坤)</managingEditor>
+            <webMaster>809075124@qq.com (王安坤)</webMaster><lastBuildDate>Thu, 14 Oct 2021 19:40:44 &#43;0800</lastBuildDate>
             <atom:link href="https://sunwukun.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>第一篇博客记录一下</title>
