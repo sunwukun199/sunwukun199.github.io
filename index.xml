@@ -4,9 +4,16 @@
         <link>https://sunwukun.github.io/</link>
         <description>王安坤的Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>809075124@qq.com (王安坤)</managingEditor>
-            <webMaster>809075124@qq.com (王安坤)</webMaster><lastBuildDate>Fri, 15 Oct 2021 22:41:34 &#43;0800</lastBuildDate>
+            <webMaster>809075124@qq.com (王安坤)</webMaster><lastBuildDate>Fri, 15 Oct 2021 23:37:43 &#43;0800</lastBuildDate>
             <atom:link href="https://sunwukun.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Hugo笔记</title>
+    <link>https://sunwukun.github.io/posts/hugo%E7%AC%94%E8%AE%B0/</link>
+    <pubDate>Fri, 15 Oct 2021 23:37:43 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sunwukun.github.io/posts/hugo%E7%AC%94%E8%AE%B0/</guid>
+    <description><![CDATA[###hugo创建笔记 hugo new posts/xxx.md ###hugo本地运行 hugo serve ###hugo在md文件中添加图片 ![]{} ###hugo本地编译一下 hugo ###hugo上传gi]]></description>
+</item><item>
     <title>生活笔记10-15</title>
     <link>https://sunwukun.github.io/posts/%E7%94%9F%E6%B4%BB%E7%AC%94%E8%AE%B010-15/</link>
     <pubDate>Fri, 15 Oct 2021 22:41:34 &#43;0800</pubDate>
