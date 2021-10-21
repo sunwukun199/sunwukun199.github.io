@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://sunwukun.github.io/posts/</loc><lastmod>2021-10-21T23:22:45&#43;08:00</lastmod></url><url>
+            <loc>https://sunwukun.github.io/posts/%E6%8A%96%E9%9F%B3%E7%AC%94%E8%AE%B0/</loc><lastmod>2021-10-21T23:22:45&#43;08:00</lastmod></url><url>
+            <loc>https://sunwukun.github.io/</loc><lastmod>2021-10-21T23:22:45&#43;08:00</lastmod></url><url>
             <loc>https://sunwukun.github.io/posts/hugo%E7%AC%94%E8%AE%B0/</loc><lastmod>2021-10-15T23:37:43&#43;08:00</lastmod></url><url>
-            <loc>https://sunwukun.github.io/posts/</loc><lastmod>2021-10-15T23:37:43&#43;08:00</lastmod></url><url>
-            <loc>https://sunwukun.github.io/</loc><lastmod>2021-10-15T23:37:43&#43;08:00</lastmod></url><url>
             <loc>https://sunwukun.github.io/posts/%E7%94%9F%E6%B4%BB%E7%AC%94%E8%AE%B010-15/</loc><lastmod>2021-10-15T22:41:34&#43;08:00</lastmod></url><url>
             <loc>https://sunwukun.github.io/posts/first_post/</loc><lastmod>2021-10-14T19:40:44&#43;08:00</lastmod></url><url>
             <loc>https://sunwukun.github.io/categories/</loc></url><url>
